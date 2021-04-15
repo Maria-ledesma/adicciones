@@ -1,12 +1,29 @@
-body { background-image: linear-gradient(90deg, green, blue); color:pink } h1{
-color:purple; } table{ color:white; } #Primerboton{ padding-bottom:20px; background-image:url(drogas.jpeg);
-color:blue; font-size: 25px; text-shadow: blue 10px 10px 8px; box-shadow:black
-6px 6px 4px; borde-radius: 1.00 em; } #Primerboton:hover{ background-image:url("boton1.jpeg");
-color: purple; font-family: Arial; }
-
-
-
-
+body { background-image: linear-gradient(90deg, green, blue); 
+color:pink } 
+h1{color:purple;
+}
+ table{ color:white; } 
+#Primerboton{ padding-bottom:20px; 
+background-image:url(drogas.jpeg);
+color:blue;
+ font-size: 25px; 
+text-shadow: blue 10px 10px 8px; 
+box-shadow:black6px
+6px 4px; 
+borde-radius: 1.00 em; } 
+#Primerboton:hover{ 
+background-image:url("boton1.jpeg");
+color: purple;
+}
+ p{ 
+font:italic 27px georgia; 
+color:black; 
+text-shadow:-2px 2px0 red, -3px 3px 0 green-yellow, -4px 4px 0 white; 
+font-style: italic;
+ font-size:26px;
+font: italic bold 23px Georgia, Serif;
+ } 
+}
 <!--
 Visual Code Mobile
 Developed By Manish Nirmal
